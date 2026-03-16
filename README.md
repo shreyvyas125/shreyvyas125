@@ -46,9 +46,5 @@
 
 ---
 ⭐ *BSc CS Graduate · MSc Data Science · Berlin Based · Seeking Werkstudent Roles*
-```
-
 ---
-
-```
 https://github.com/shreyvyas125
