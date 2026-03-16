@@ -17,9 +17,11 @@
 ---
 
 ## 🚀 Projects
-| Project | Description | Tools |
-|[🏦 Bank Churn Analysis](https://github.com/shreyvyas125/bank-churn-analysis) | Analyzed 10,000 bank customers to identify churn patterns. Found 19.41% churn rate and key risk segments | Python, SQL, Power BI |
 
+### 🏦 [Bank Churn Analysis](https://github.com/shreyvyas125/bank-churn-analysis)
+> Analyzed 10,000 bank customers to identify churn patterns.
+> Found **19.41% churn rate** and identified high-risk customer segments by age and product usage.
+> **Tools:** Python · SQL · Power BI · Git
 ---
 
 ## 📊 What I Do
